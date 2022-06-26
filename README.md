@@ -39,6 +39,15 @@ Software Developer
 <p align="left"><a href="https://www.github.com/ArashJDI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/arash_jdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 </p>
 
+
+### Badges
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashjdi&count_private=true&title_color=37DF31&text_color=ddd&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=hack,css&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashjdi&show_icons=true&theme=chartreuse-dark&count_private=true&hide=prs,contribs&hide_border=true)
+
+<a href="http://www.github.com/arashjdi"><img src="https://activity-graph.herokuapp.com/graph?username=arashjdi&&theme=chartreuse-dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <!---
 ArashJDI/ArashJDI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
